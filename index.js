@@ -22,7 +22,7 @@ function appendKitten(name) {
   
 }
 
-function destructivelyAppendKitten(name) {
+function prependKitten(name) {
   
 }
 
