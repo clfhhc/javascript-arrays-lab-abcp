@@ -6,3 +6,26 @@ function destructivelyAppendKitten(name) {
   
 }
 
+function destructivelyAppendKitten(name) {
+  
+}
+
+function destructivelyAppendKitten(name) {
+  
+}
+
+function destructivelyAppendKitten(name) {
+  
+}
+
+function destructivelyAppendKitten(name) {
+  
+}
+
+function destructivelyAppendKitten(name) {
+  
+}
+
+function destructivelyAppendKitten(name) {
+  
+}
